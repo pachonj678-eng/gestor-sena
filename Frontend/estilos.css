@@ -1,0 +1,7 @@
+﻿body { background-color: #f4f7f6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333; }
+.container { max-width: 800px; }
+.card { border: none; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); }
+.btn-primary { background-color: #3f51b5; border: none; }
+.btn-primary:hover { background-color: #303f9f; }
+.table th { background-color: #3f51b5 !important; color: white !important; text-align: center; }
+.table td { text-align: center; vertical-align: middle; }
