@@ -18,6 +18,47 @@ function escaparHTML(valor = '') {
 // Función para visualizar datos en la tabla
 function visualizar(data) {
     const tabla = document.getElementById('tabla-datos');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     if (!tabla) return;
     if (!data.baul || data.baul.length === 0) {
         tabla.innerHTML = '<tr><td colspan="5" class="empty-state"><i class="bi bi-inbox"></i><strong>Aún no hay contraseñas guardadas</strong><span>Agrega tu primer acceso para verlo aquí.</span></td></tr>';
